@@ -5,13 +5,16 @@ Data Analyst | Power BI Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Gabriela, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Gabriela, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
 ## About Me 🎓 
+I'm a data-driven professional based in central London. I hold a Master’s in Sociology from Wroclaw University (2006) and have a strong passion for analysing trends, solving complex problems, and leveraging data to drive informed decisions. I have over 20 years experience in office management.
+My career spans customer service, supply chain coordination, and the UK Civil Service, where I developed expertise in data analysis, database management, and process optimisation. 
+As a Customer Service Coordinator at The Compleat Food Group, I managed orders, built client relationships, and optimised delivery processes using satisfaction data. Transitioning to a Supply Chain Coordinator role, I used Excel to forecast inventory levels and maintain databases for hundreds of products, reinforcing my belief in data accuracy for effective decision-making.
+In the healthcare sector, I worked as a Care Assistant, strengthening my attention to detail and empathy—skills valuable in data analysis. Most recently, as a Work Coach in the UK Civil Service, I supported job seekers, managed databases, and analysed employment trends to improve program efficiency.
+Currently, I am enhancing my technical expertise through the Just IT Data Technician Bootcamp, developing proficiency in MySQL, Python, Tableau, and PowerBI. 
+I am now seeking opportunities in data analytics where I can merge my sociological insights with analytical skills to influence business decisions and drive innovation in industries like finance, marketing, healthcare, and tech.
 
-
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
