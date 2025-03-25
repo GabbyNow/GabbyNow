@@ -16,7 +16,7 @@ Currently, I am enhancing my technical expertise through the Just IT Data Techni
 I am now seeking opportunities in data analytics where I can merge my sociological insights with analytical skills to influence business decisions and drive innovation in industries like finance, marketing, healthcare, and tech.
 
 
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+📊 Proficient in MySQL and data visualization tools (Tableau, Power BI). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
@@ -28,25 +28,23 @@ I am now seeking opportunities in data analytics where I can merge my sociologic
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: Tourism Project (https://sites.google.com/view/gabrielakowaczyk/powerbi/tourism-project?authuser=1)
+  - **Description**: These findings highlight the dynamic nature of the tourism industry and its significant economic impact globally.  
+  - **Technologies Used**: This project is based on a global tourism dataset spanning from 1995 - 2021 in Excel. Visualisations in Power BI.
+    
+- **Project Name**: Adventure Works - sales report (https://sites.google.com/view/gabrielakowaczyk/powerbi/tourism-project?authuser=1)
+  - **Description**:
+  - **Technologies Used**:
 
 ### Tableau
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: UK Employment (https://public.tableau.com/views/EMSI_JobChanging_UK/EMSI_JobChanging_UK?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+- **Project Name**: World Health Data Analysis (link)
+   - **Description**: Brief description of what the project does and its key features.
+   - **Technologies Used**: List the features and data sources used in the project.
 
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
@@ -73,18 +71,11 @@ I am now seeking opportunities in data analytics where I can merge my sociologic
 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [email address](mailto:training.justit@gmail.com)
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+* ✉️  You can contact me at [gabriela.kowaczyk@gmail.com] (mailto:training.justit@gmail.com)
+* 🧠  I'm learning Python, Pandas, Azure.
+* 🤝  I'm open to collaborating in industries like tech, marketing, finance, health projects.
 
 ### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
-   <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer; return false;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="72" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
-
-</p>
 
 **Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
 
