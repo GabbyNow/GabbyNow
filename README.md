@@ -20,12 +20,7 @@ I am now seeking opportunities in data analytics where I can merge my sociologic
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
-## Projects
-
-1. **Customer Segmentation** 
-2. **Predictive Modeling** 
-3. **Exploratory Data Analysis:** 
-
+## Projects 
 
 ### PowerBI
 - **Project Name**: Tourism Project (https://sites.google.com/view/gabrielakowaczyk/powerbi/tourism-project?authuser=1)
